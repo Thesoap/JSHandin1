@@ -1,0 +1,1 @@
+Person = { fName: "Kurt", lName: "Wonnegut", age: 98 };
